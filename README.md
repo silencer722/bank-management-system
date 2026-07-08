@@ -26,6 +26,7 @@ This project simulates a simple banking system where users can create customers,
 - Git & GitHub
 
 ## 📂 Project Structure
+```text
 bank-management-system/
 │
 ├── main.py
@@ -39,7 +40,7 @@ bank-management-system/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## ▶️ How to Run
 
 Clone the repository.
