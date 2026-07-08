@@ -48,7 +48,9 @@ Clone the repository.
 Open the project folder.
 
 Run:
+```bash
 python main.py
+```
 
 📌 Notes
 bank_data.json is generated automatically when the program saves data.
