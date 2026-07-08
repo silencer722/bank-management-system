@@ -1,0 +1,12 @@
+def show_menu():
+    print("\n====== BANK MANAGEMENT SYSTEM ======")
+    print("1. Add Customer")
+    print("2. Show Customers")
+    print("3. Create Account")
+    print("4. Deposit")
+    print("5. Withdraw")
+    print("6. Transfer")
+    print("7. Show Accounts")
+    print("8. Close Account")
+    print("9. Remove Customer")
+    print("0. Exit")
